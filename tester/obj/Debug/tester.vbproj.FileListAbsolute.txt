@@ -1,0 +1,13 @@
+C:\Users\P340\source\repos\tester\tester\bin\Debug\tester.exe.config
+C:\Users\P340\source\repos\tester\tester\bin\Debug\tester.exe
+C:\Users\P340\source\repos\tester\tester\bin\Debug\tester.pdb
+C:\Users\P340\source\repos\tester\tester\bin\Debug\tester.xml
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.vbproj.AssemblyReference.cache
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.vbproj.SuggestedBindingRedirects.cache
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.Form1.resources
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.Resources.resources
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.vbproj.GenerateResource.cache
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.vbproj.CoreCompileInputs.cache
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.exe
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.xml
+C:\Users\P340\source\repos\tester\tester\obj\Debug\tester.pdb
